@@ -5,7 +5,7 @@ const products = [
     href: "/productos/100-actividades-ninos",
     emoji: "🧒",
     category: "Familia y aprendizaje",
-    title: "100 Actividades para Niños",
+    title: "100 Actividades para Niños con TEA y TDAH",
     description:
       "Una guía digital con juegos, rutinas, actividades cognitivas y sensoriales para realizar desde casa.",
     status: "Disponible",

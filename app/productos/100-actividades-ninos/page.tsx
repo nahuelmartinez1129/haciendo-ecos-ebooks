@@ -47,7 +47,7 @@ export default function ActividadesPage() {
           <div>
             <span className="eyebrow">GUÍA DIGITAL EN ESPAÑOL</span>
             <h1 className="mt-6 max-w-3xl text-5xl font-black leading-[1.03] tracking-tight sm:text-6xl">
-              100 actividades para acompañar{" "}
+              100 Actividades para Niños con TEA y TDAH{" "}
               <span className="text-brand-teal">momentos de aprendizaje desde casa.</span>
             </h1>
             <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-600 sm:text-xl">
